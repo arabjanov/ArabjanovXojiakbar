@@ -2,34 +2,19 @@ document.addEventListener("DOMContentLoaded", () => {
 
       const projects = [
         {
-          img: "https://raw.githubusercontent.com/arabjanov/ArabjanovXojiakbar/main/images/shorts-1.jpg",
+          img: "https://raw.githubusercontent.com/arabjanov/ArabjanovXojiakbar/main/images/video-1.jpg",
           youtube: "https://youtube.com/shorts/Rfsu5or6Tko",
-          title: "Podcastdan Backstage"
+          title: "Ish turi: syomka va montaj birga"
         },
         {
-          img: "https://raw.githubusercontent.com/arabjanov/arabjanov_xojiakbar/main/images/cub.jpg",
-          youtube: "https://www.youtube.com/watch?v=VIDEO_ID_2",
-          title: "3D Motion Graphics"
+          img: "https://raw.githubusercontent.com/arabjanov/ArabjanovXojiakbar/main/images/video-2.jpg",
+          youtube: "https://youtube.com/shorts/W7rXqq1pH6Q",
+          title: "Ish turi: faqat montaj"
         },
         {
-          img: "https://via.placeholder.com/300x300/1a1a1a/ffffff?text=Video+3",
-          youtube: "https://www.youtube.com/watch?v=VIDEO_ID_3",
-          title: "Reklama Montaj"
-        },
-        {
-          img: "https://via.placeholder.com/300x300/2a2a2a/ffffff?text=Video+4",
-          youtube: "https://www.youtube.com/watch?v=VIDEO_ID_4",
-          title: "Musiqa Video"
-        },
-        {
-          img: "https://via.placeholder.com/300x300/2a2a2a/ffffff?text=Video+4",
-          youtube: "https://www.youtube.com/watch?v=VIDEO_ID_4",
-          title: "Musiqa Video lakhsdl alshdla shld daslk dsalomo"
-        },
-        {
-          img: "https://via.placeholder.com/300x300/2a2a2a/ffffff?text=Video+4",
-          youtube: "https://www.youtube.com/watch?v=VIDEO_ID_4",
-          title: "Musiqa Video lakhsdl alshdla shld daslk dsalomo"
+          img: "https://raw.githubusercontent.com/arabjanov/ArabjanovXojiakbar/main/images/video-3.jpg",
+          youtube: "https://youtu.be/8cu5yn57bsE",
+          title: "Ish turi: faqat montaj"
         }
       ];
 

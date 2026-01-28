@@ -3,8 +3,8 @@ document.addEventListener("DOMContentLoaded", () => {
       const projects = [
         {
           img: "https://raw.githubusercontent.com/arabjanov/ArabjanovXojiakbar/main/images/shorts-1.jpg",
-          youtube: "https://www.youtube.com/watch?v=VIDEO_ID_1",
-          title: "Earth Animation"
+          youtube: "https://youtube.com/shorts/Rfsu5or6Tko",
+          title: "Podcastdan Backstage"
         },
         {
           img: "https://raw.githubusercontent.com/arabjanov/arabjanov_xojiakbar/main/images/cub.jpg",

@@ -15,6 +15,16 @@ document.addEventListener("DOMContentLoaded", () => {
           img: "https://raw.githubusercontent.com/arabjanov/ArabjanovXojiakbar/main/images/video-3.jpg",
           youtube: "https://youtu.be/8cu5yn57bsE",
           title: "Ish turi: faqat montaj"
+        },
+        {
+          img: "https://raw.githubusercontent.com/arabjanov/ArabjanovXojiakbar/main/images/video-4.jpg",
+          youtube: "https://youtube.com/shorts/aapVDkIDtk0",
+          title: "Ish turi: faqat montaj, rang bilan ishlash"
+        },
+        {
+          img: "https://raw.githubusercontent.com/arabjanov/ArabjanovXojiakbar/main/images/video-5.jpg",
+          youtube: "https://youtube.com/shorts/jQrwF5pbZV4",
+          title: "Ish turi: faqat montaj, rang bilan ishlash"
         }
       ];
 
